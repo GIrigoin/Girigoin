@@ -38,6 +38,7 @@ Es una SPA (Single page application), que permite a los usuarios aprender u obte
 
 <ins>**Backend:**</ins>
 Tecnologías usadas: NodeJs | Express | PostgreSQL | Sequelize
+
 <ins>**Frontend:**</ins>
 Tecnologías usadas: React | Redux | CSS
 
