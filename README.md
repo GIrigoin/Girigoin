@@ -111,6 +111,7 @@ Tecnologías usadas: JavaScript | HTML | CSS
 
 ## Contactame
 
+<div align="center">  
 <a href="https://github.com/Girigoin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -120,6 +121,7 @@ Tecnologías usadas: JavaScript | HTML | CSS
 <a href="mailto:guilleirigoin@homail.com" target="_blank">
 <img src=https://img.shields.io/badge/✉EMAIL-8A2BE2?style=for-the-badge alt=Email style="margin-bottom: 5px;" />
 </a>
+</div>
 
 ---
 
