@@ -26,7 +26,7 @@ Tecnologías usadas: JavaScript | NodeJS | Express | PostgreSQL | Sequelize | So
 
 Tecnologías usadas: JavaScript | NodeJS | React | Redux | Tailwind CSS | Socket.io
 
-<img src='./Imagenes/bosco-Landing.png' alt=github style="margin-bottom: 5px;" />
+<img src='./Imagenes/bosco-Landing2.png' alt=github style="margin-bottom: 5px;" />
 
 <br>
 
@@ -46,6 +46,43 @@ Tecnologías usadas: React | Redux | CSS
 <img src='./Imagenes/1711638866692.jpg' alt=github style="margin-bottom: 5px;" />
 
 <img src='./Imagenes/1711638925235.jpg' alt=github style="margin-bottom: 5px;" />
+
+<br/>
+
+### [Translate App](https://girigoin.github.io/translate-app/)
+
+SPA que permite traducir textos de y a una selección de idiomas. Realizada como parte de los desafios de [devChallenges](https://devchallenges.io).
+
+[Repositorio](https://github.com/GIrigoin/translate-app)
+
+Tecnologías usadas: JavaScript | Typescript | NodeJS | React | Redux | Tailwind CSS
+
+<img src='./Imagenes/translate-app.png' alt=github style="margin-bottom: 5px;" />
+
+<br/>
+
+### [Transcription Viewer](https://girigoin.github.io/Transcription_Viewer/)
+
+Aplicación simple realizada segun los requisitos de una prueba técnica. Permite reproducir un dialogo y mostrar su transcripción, al tiempo que es posible controlar tal reproducción con las burbujas de dialogo o la botonera del reproductor.
+
+[Repositorio](https://github.com/GIrigoin/Transcription_Viewer)
+
+Tecnologías usadas: JavaScript | NodeJS | React | Redux | Material UI | CSS
+
+<img src='./Imagenes/transcription-viewer.png' alt=github style="margin-bottom: 5px;" />
+
+<br/>
+
+### [Word Scramblle](https://girigoin.github.io/word-scramblle/)
+
+Juego de adivinar la palabra. Aplicación realizada como parte de los desafios de [devChallenges](https://devchallenges.io).
+
+[Repositorio](https://github.com/GIrigoin/word-scramblle)
+
+Tecnologías usadas: JavaScript | HTML | CSS
+
+<img src='./Imagenes/word-scramblle.png' alt=github style="margin-bottom: 5px;" />
+
 <br/>
 
 ## Lenguajes y tecnologías
@@ -55,6 +92,7 @@ Tecnologías usadas: React | Redux | CSS
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
